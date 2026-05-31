@@ -1,5 +1,5 @@
 # oprfinal
-# Dashboard de Spotify — Proyecto Final OPR Desarrollo Web
+# Dashboard de Spotify
 
 ---
 
@@ -12,7 +12,7 @@
 | **Objetivos y Motivaciones** | Quiere descubrir música que todavía no conoce, de forma rápida y sin esfuerzo. Su motivación principal es explorar un catálogo de Spotify para encontrar artistas o canciones que nunca ha escuchado pero que probablemente le van a gustar. También quiere poder armar playlists temáticas por estado de ánimo o actividad (trabajar concentrado, manejar, relajarse) sin tener que buscar canción por canción. No es experto en el ámbito musical, solo quiere escuchar buena música. |
 | **Puntos de dolor (Pain points)** | Le cuesta encontrar música nueva porque no sabe por dónde empezar en un catálogo tan grande. Siente que Spotify solo le muestra lo mismo de siempre y no le ayuda a salir de su burbuja. Pierde tiempo armando playlists manualmente porque no tiene una forma rápida de filtrar por lo que está buscando. |
 
----
+
 
 ### Un extremo: El Coleccionista Obsesivo
 
@@ -23,7 +23,7 @@
 | **Objetivos y Motivaciones** | Quiere analizar patrones técnicos en los datos: distribución de popularidad por género, tendencias por década, duración promedio de canciones. Busca encontrar artistas emergentes con pocos seguidores pero alta popularidad o con buen ritmo para "descubrirlos antes que todos". Valora la profundidad analítica sobre la estética visual. |
 | **Puntos de dolor (Pain points)** | Las visualizaciones genéricas no le muestran suficiente detalle. Le frustra no poder filtrar por variables específicas como duración exacta, nivel de popularidad o contenido explícito. Siente que los dashboards están diseñados para oyentes casuales, no para alguien que quiere explorar los datos a fondo. |
 
----
+
 
 ### Otro extremo: La Oyente Ocasional
 
@@ -34,7 +34,7 @@
 | **Objetivos y Motivaciones** | Solo quiere encontrar canciones que reconoce y escuchar cosas parecidas a lo que ya le gusta. Le gustaría entender de forma simple "qué música hay de los años 70 similar a la que ya escucha" sin tener que leer datos ni navegar interfaces complejas. Y también encontrar con facilidad canciones de su juventud de las que recuerda solo el coro o algunas partes. |
 | **Puntos de dolor (Pain points)** | Los dashboards con demasiados gráficos o filtros la abruman. No entiende términos técnicos como "popularidad", "tracks" o "géneros". La letra pequeña y los colores de bajo contraste le dificultan la lectura. Necesita una experiencia extremadamente simple e intuitiva. |
 
----
+
 
 ## Segundo, con qué
 
@@ -73,7 +73,7 @@ El dashboard se construye en base al siguiente dataset:
 -  **Contenido explícito:** 2.148 canciones (25%); 6.434 limpias (75%)
 -  **Tipos de lanzamiento:** 5.856 álbumes, 2.219 singles, 507 compilaciones
 
----
+
 
 ## Tercero, qué
 
@@ -89,7 +89,7 @@ La propuesta diferenciadora respecto a lo que Spotify ya ofrece es mostrar **rel
 
 El diseño será limpio, de estética moderna, mayormente oscuro y con elementos en verde y con acentos en color lila/violeta, sin tecnicismos, con lenguaje cotidiano que invite a explorar.
 
----
+
 
 ### Antecedentes de referencia
 
